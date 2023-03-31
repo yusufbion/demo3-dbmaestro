@@ -102,6 +102,32 @@
         }
       ],
       "DatabasesStaticDataObjects": null
+    },
+    {
+      "GlobalData": {
+        "ProjectId": "148dcb90-cd14-456b-b59a-e9a1d2993e8d",
+        "ProjectName": "demo3",
+        "DBTypeName": "Oracle",
+        "Environments": null,
+        "SourceControlPathType": 0,
+        "Configuration": {
+          "BuildMigrationScriptAutomatically": true,
+          "DBConfiguration": {},
+          "NumberOfRevisionsInViewHistory": 10,
+          "NumberOfTagsInBuildOptions": 10,
+          "PreventCommitObjectWithConflict": false,
+          "UseCache": null
+        },
+        "ProjectArchitecture": 0,
+        "LocalDirectory": ""
+      },
+      "UserData": [
+        {
+          "UserName": "yusufbion",
+          "DatabasesData": []
+        }
+      ],
+      "DatabasesStaticDataObjects": null
     }
   ],
   "GlobalConfigurations": null
